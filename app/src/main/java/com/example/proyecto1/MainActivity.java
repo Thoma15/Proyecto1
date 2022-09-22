@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends Activity {
-    EditText et1;
+    //EditText et1;
     Button button;
 
     @Override
